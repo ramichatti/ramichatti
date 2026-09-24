@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chatti Rami
-### Data Engineer & Business Intelligence Developer
+### BI/Data Engineer
 
 Étudiant ingénieur en informatique (option ERP/BI) — ESPRIT | À la recherche d'un stage PFE en Data
 
